@@ -4,7 +4,7 @@ Welcome to the official website repository for the Laboratory for Cellular Bioph
 
 Our research focuses on developing and applying advanced fluorescence spectroscopy and live-cell imaging methods to uncover how nuclear architecture regulates genome function.
 
-## Visit our website
+## Visit our website!
 
 **https://HindeLab.github.io/CellularBiophysics**
 
@@ -26,6 +26,7 @@ or redistribute it without explicit written permission from the copyright holder
 
 Full license text:
 https://creativecommons.org/licenses/by-nc-nd/4.0/
+
 
 
 
