@@ -6,7 +6,7 @@ Our research focuses on developing and applying advanced fluorescence spectrosco
 
 ## Visit our website
 
-**https://CellularBiophysics.github.io/HindeLab**
+**https://HindeLab.github.io/CellularBiophysics**
 
 ## License
 
@@ -26,6 +26,7 @@ or redistribute it without explicit written permission from the copyright holder
 
 Full license text:
 https://creativecommons.org/licenses/by-nc-nd/4.0/
+
 
 
 
